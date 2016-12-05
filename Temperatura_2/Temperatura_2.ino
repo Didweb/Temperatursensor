@@ -3,7 +3,7 @@ Temperatura.
 Termometro exterior e interior.
 Con minimas y maximas.
 
-autor: Eudrad Pinuaga
+autor: Eudard Pinuaga
 <info@did-web.com>
 http://github.com/Didweb
 
@@ -21,7 +21,6 @@ int IntMin = 30;
 int ExtMax = 0;
 int ExtMin = 30;
 
-int ciclo = 0;
 int nDelay = 200;
 
 long mVA0 = 0; 
