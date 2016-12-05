@@ -2,7 +2,7 @@
 Temperatura.
 Termometro exterior e interior.
 
-autor: Eudard Pinuaga
+autor: Eduard Pinuaga
 <info@did-web.com>
 http://github.com/Didweb
 

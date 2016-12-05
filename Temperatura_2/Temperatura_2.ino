@@ -3,7 +3,7 @@ Temperatura.
 Termometro exterior e interior.
 Con minimas y maximas.
 
-autor: Eudard Pinuaga
+autor: Eduard Pinuaga
 <info@did-web.com>
 http://github.com/Didweb
 
